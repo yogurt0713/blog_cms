@@ -1,8 +1,8 @@
 backend:
-  name: git-gateway
+  name: github
   repo: T-Damer/e-commerce-template
   branch: main
-site_url: https://m-f.netlify.app/
+site_url: https://preeminent-piroshki-3338c9.netlify.app
 publish_mode: editorial_workflow
 media_folder: 'assets/img'
 public_folder: 'assets/img'
